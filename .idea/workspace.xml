@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/patterns/pattern_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000055720224" />
+      <entry key="MS500" value="1.0455412057151616" />
+      <entry key="S2" value="1.755455194991051" />
+      <entry key="S5" value="2.5674055609006703" />
+      <entry key="S10" value="3.758064327500033" />
+      <entry key="S30" value="8.853960740125821" />
+      <entry key="S60" value="14.078881757037687" />
+      <entry key="M2" value="18.991306761654076" />
+      <entry key="M5" value="31.06846331831658" />
+      <entry key="M10" value="54.25863207716124" />
+      <entry key="M15" value="71.27079389594505" />
+      <entry key="M30" value="97.86357368667795" />
+      <entry key="H1" value="116.48540496908439" />
+      <entry key="H2" value="127.55304122953665" />
+      <entry key="H4" value="133.59319756421095" />
+      <entry key="D1" value="138.9057529123424" />
+      <entry key="W1" value="139.8430180463085" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="8.08395E-319" />
+      <entry key="MS500" value="2.4072701816599146E-64" />
+      <entry key="S2" value="1.2456074844130286E-16" />
+      <entry key="S5" value="4.346628103412156E-7" />
+      <entry key="S10" value="6.592896255373775E-4" />
+      <entry key="S30" value="0.0870346286396095" />
+      <entry key="S60" value="0.2950163249104345" />
+      <entry key="M2" value="0.5432601718013065" />
+      <entry key="M5" value="0.8223612055793824" />
+      <entry key="M10" value="1.1643204013218291" />
+      <entry key="M15" value="1.460099524234729" />
+      <entry key="M30" value="1.9976775311923984" />
+      <entry key="H1" value="2.420381655057628" />
+      <entry key="H2" value="2.687242298122369" />
+      <entry key="H4" value="2.8374049919921247" />
+      <entry key="D1" value="2.9719935395930563" />
+      <entry key="W1" value="2.995976261225205" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.13992209156408E-8" />
+      <entry key="MS500" value="0.0469563594968233" />
+      <entry key="S2" value="0.9083569214645661" />
+      <entry key="S5" value="2.002294787267376" />
+      <entry key="S10" value="3.317513603926233" />
+      <entry key="S30" value="8.58595085375183" />
+      <entry key="S60" value="14.108902740211331" />
+      <entry key="M2" value="19.36611507912863" />
+      <entry key="M5" value="31.810049057177682" />
+      <entry key="M10" value="55.375425654851384" />
+      <entry key="M15" value="72.69535600159693" />
+      <entry key="M30" value="99.84010481986803" />
+      <entry key="H1" value="118.89391672502583" />
+      <entry key="H2" value="130.23394398593044" />
+      <entry key="H4" value="136.42731960386712" />
+      <entry key="D1" value="141.8771824450442" />
+      <entry key="W1" value="142.83891330701806" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4,
   &quot;fromUser&quot;: false
@@ -34,6 +93,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.pattern_02.executor": "Run",
+    "Application.pattern_03.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -70,7 +130,7 @@
       <updated>1782376546031</updated>
       <workItem from="1782376547078" duration="71000" />
       <workItem from="1782385024998" duration="260000" />
-      <workItem from="1782385303304" duration="1567000" />
+      <workItem from="1782385303304" duration="2932000" />
     </task>
     <servers />
   </component>
