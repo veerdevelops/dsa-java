@@ -1,6 +1,6 @@
 package patterns;
 
-public class pattern_01 {
+public class Pattern01_Rectangle {
      public static void main(String[] args) {
         int n=5;
         for( int i=1;i<=n;i++){
