@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/patterns/pattern_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000002526314569" />
-      <entry key="MS500" value="1.0625837097116373" />
-      <entry key="S2" value="2.0320421098491956" />
-      <entry key="S5" value="3.323369033754993" />
-      <entry key="S10" value="4.668898182837253" />
-      <entry key="S30" value="9.699733710523155" />
-      <entry key="S60" value="15.810177826552906" />
-      <entry key="M2" value="22.651953128014036" />
-      <entry key="M5" value="29.515016429688583" />
-      <entry key="M10" value="33.30639808513661" />
-      <entry key="M15" value="38.16762549832632" />
-      <entry key="M30" value="68.49869131683461" />
-      <entry key="H1" value="160.44517313473406" />
-      <entry key="H2" value="330.9330783005373" />
-      <entry key="H4" value="528.0547826943032" />
-      <entry key="D1" value="827.3154314315448" />
-      <entry key="W1" value="898.4265527094475" />
+      <entry key="MS100" value="1.0287558640820273" />
+      <entry key="MS500" value="1.4917510371360068" />
+      <entry key="S2" value="1.8407359407267547" />
+      <entry key="S5" value="2.0343101748236094" />
+      <entry key="S10" value="2.348517558653444" />
+      <entry key="S30" value="4.086988548349513" />
+      <entry key="S60" value="5.960629358928873" />
+      <entry key="M2" value="8.278307241110749" />
+      <entry key="M5" value="22.950783826040045" />
+      <entry key="M10" value="49.923130462770644" />
+      <entry key="M15" value="69.20292018640968" />
+      <entry key="M30" value="114.56890620422907" />
+      <entry key="H1" value="210.10077880734616" />
+      <entry key="H2" value="383.9453208445707" />
+      <entry key="H4" value="590.5153841438084" />
+      <entry key="D1" value="913.2217632556418" />
+      <entry key="W1" value="991.173181969645" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.996558295942282E-118" />
-      <entry key="S2" value="3.758984187634641E-30" />
-      <entry key="S5" value="1.6983539261042346E-12" />
-      <entry key="S10" value="1.3032090876387549E-6" />
-      <entry key="S30" value="0.010922901900997694" />
-      <entry key="S60" value="0.1045126877512854" />
-      <entry key="M2" value="0.32328422132239104" />
-      <entry key="M5" value="0.6365886535376813" />
-      <entry key="M10" value="0.8051391567049898" />
-      <entry key="M15" value="0.9074948476686872" />
-      <entry key="M30" value="1.3119896140021583" />
-      <entry key="H1" value="2.4730167768688953" />
-      <entry key="H2" value="4.831520494119069" />
-      <entry key="H4" value="7.803784172111818" />
-      <entry key="D1" value="12.611565193794089" />
-      <entry key="W1" value="13.790384877358969" />
+      <entry key="MS100" value="2.366965285374723E-69" />
+      <entry key="MS500" value="1.8829482215852607E-14" />
+      <entry key="S2" value="3.704329365358225E-4" />
+      <entry key="S5" value="0.04241152002074987" />
+      <entry key="S10" value="0.2059405740031572" />
+      <entry key="S30" value="0.5905372622200448" />
+      <entry key="S60" value="0.7684644271197988" />
+      <entry key="M2" value="0.8770725719387557" />
+      <entry key="M5" value="0.9946053814802384" />
+      <entry key="M10" value="1.190237862369569" />
+      <entry key="M15" value="1.360348703375915" />
+      <entry key="M30" value="1.8377309568405655" />
+      <entry key="H1" value="2.9820260387466457" />
+      <entry key="H2" value="5.32797107277745" />
+      <entry key="H4" value="8.386709156115378" />
+      <entry key="D1" value="13.496766977248061" />
+      <entry key="W1" value="14.772384536502813" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.7272135761324033E-7" />
-      <entry key="MS500" value="0.07265935265663187" />
-      <entry key="S2" value="1.2714179974877493" />
-      <entry key="S5" value="2.772450321024266" />
-      <entry key="S10" value="4.262667839157766" />
-      <entry key="S30" value="9.441549783451867" />
-      <entry key="S60" value="15.702841756197142" />
-      <entry key="M2" value="22.8251639072419" />
-      <entry key="M5" value="30.073539148501588" />
-      <entry key="M10" value="34.068151206801154" />
-      <entry key="M15" value="39.04399656777621" />
-      <entry key="M30" value="69.78967196855251" />
-      <entry key="H1" value="162.8999172489755" />
-      <entry key="H2" value="335.7484532586607" />
-      <entry key="H4" value="535.846465608786" />
-      <entry key="D1" value="839.9239587392514" />
-      <entry key="W1" value="912.2164688665147" />
+      <entry key="MS100" value="0.913913110846758" />
+      <entry key="MS500" value="1.1343353476008644" />
+      <entry key="S2" value="1.6217540095623133" />
+      <entry key="S5" value="1.9330326698736746" />
+      <entry key="S10" value="2.420569919138621" />
+      <entry key="S30" value="4.568457481956093" />
+      <entry key="S60" value="6.649114873968085" />
+      <entry key="M2" value="9.104856218722036" />
+      <entry key="M5" value="23.9161265492879" />
+      <entry key="M10" value="51.08905784562825" />
+      <entry key="M15" value="70.54163892293019" />
+      <entry key="M30" value="116.38860856076109" />
+      <entry key="H1" value="213.0658518496299" />
+      <entry key="H2" value="389.25767347581575" />
+      <entry key="H4" value="598.8900602571387" />
+      <entry key="D1" value="926.7154234334644" />
+      <entry key="W1" value="1005.9450845984518" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -103,6 +103,7 @@
     "Application.pattern_08.executor": "Run",
     "Application.pattern_09.executor": "Run",
     "Application.pattern_10.executor": "Run",
+    "Application.pattern_11.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -124,7 +125,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.pattern_11">
+  <component name="RunManager" selected="Application.pattern_12">
     <configuration name="pattern_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.pattern_02" />
       <module name="dsa-java" />
@@ -140,19 +141,6 @@
     </configuration>
     <configuration name="pattern_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.pattern_05" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pattern_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern_09" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -190,13 +178,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern_12" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern_12" />
         <item itemvalue="Application.pattern_11" />
         <item itemvalue="Application.pattern_10" />
         <item itemvalue="Application.pattern_05" />
         <item itemvalue="Application.pattern_02" />
-        <item itemvalue="Application.pattern_09" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +220,7 @@
       <workItem from="1782385024998" duration="260000" />
       <workItem from="1782385303304" duration="3508000" />
       <workItem from="1782467166373" duration="8348000" />
-      <workItem from="1782552102348" duration="7475000" />
+      <workItem from="1782552102348" duration="8582000" />
     </task>
     <servers />
   </component>
