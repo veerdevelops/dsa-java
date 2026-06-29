@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/patterns/pattern_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern_17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.000677064990475" />
-      <entry key="S2" value="1.267790051932165" />
-      <entry key="S5" value="1.8938651871276644" />
-      <entry key="S10" value="2.336821959411697" />
-      <entry key="S30" value="2.748614088481288" />
-      <entry key="S60" value="2.870078973159795" />
-      <entry key="M2" value="2.940112877231976" />
-      <entry key="M5" value="4.808803233114748" />
-      <entry key="M10" value="17.02703302082499" />
-      <entry key="M15" value="34.04075491715511" />
-      <entry key="M30" value="91.15984383990539" />
-      <entry key="H1" value="210.00984506247252" />
-      <entry key="H2" value="425.87370075929556" />
-      <entry key="H4" value="718.2519745594066" />
-      <entry key="D1" value="1264.0023239757766" />
-      <entry key="W1" value="1411.2790327283142" />
+      <entry key="MS100" value="1.6129478645622548" />
+      <entry key="MS500" value="3.5687358653797765" />
+      <entry key="S2" value="6.318795156101408" />
+      <entry key="S5" value="12.020431349281337" />
+      <entry key="S10" value="20.334362776151576" />
+      <entry key="S30" value="34.76400964000633" />
+      <entry key="S60" value="41.45302896167431" />
+      <entry key="M2" value="45.7641828055337" />
+      <entry key="M5" value="50.30768350753441" />
+      <entry key="M10" value="62.70139134556115" />
+      <entry key="M15" value="79.48804607160538" />
+      <entry key="M30" value="136.1889781064097" />
+      <entry key="H1" value="254.7548242550747" />
+      <entry key="H2" value="470.63670229677336" />
+      <entry key="H4" value="763.5424712515323" />
+      <entry key="D1" value="1311.2110331832373" />
+      <entry key="W1" value="1459.1528883303185" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="7.080336924127967E-232" />
-      <entry key="S5" value="3.4675407200721033E-93" />
-      <entry key="S10" value="5.888582783719783E-47" />
-      <entry key="S30" value="3.8904836541134006E-16" />
-      <entry key="S60" value="1.972431187509857E-8" />
-      <entry key="M2" value="1.4049690638874104E-4" />
-      <entry key="M5" value="0.030009519295728995" />
-      <entry key="M10" value="0.20516147850567754" />
-      <entry key="M15" value="0.42107848704420575" />
-      <entry key="M30" value="1.0461038304820593" />
-      <entry key="H1" value="2.3040682007875364" />
-      <entry key="H2" value="4.815560090427128" />
-      <entry key="H4" value="8.616981837690759" />
-      <entry key="D1" value="16.400565544813833" />
-      <entry key="W1" value="18.59796083100366" />
+      <entry key="S2" value="1.5561995392338694E-243" />
+      <entry key="S5" value="7.530539882929486E-98" />
+      <entry key="S10" value="2.744182917177623E-49" />
+      <entry key="S30" value="6.498368756082598E-17" />
+      <entry key="S60" value="8.06124720653201E-9" />
+      <entry key="M2" value="8.981873845048416E-5" />
+      <entry key="M5" value="0.025092221610416212" />
+      <entry key="M10" value="0.18760130626009267" />
+      <entry key="M15" value="0.3966947130004833" />
+      <entry key="M30" value="1.0153633227175884" />
+      <entry key="H1" value="2.269962432602508" />
+      <entry key="H2" value="4.779786258409834" />
+      <entry key="H4" value="8.584915255982127" />
+      <entry key="D1" value="16.390377766866777" />
+      <entry key="W1" value="18.59630999632728" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="4.7027240015355824E-7" />
-      <entry key="MS500" value="0.05481223832592692" />
-      <entry key="S2" value="0.7311002681232452" />
-      <entry key="S5" value="1.6128051360811808" />
-      <entry key="S10" value="2.179440734810867" />
-      <entry key="S30" value="2.691509220811712" />
-      <entry key="S60" value="2.840875638226662" />
-      <entry key="M2" value="2.9254795610244306" />
-      <entry key="M5" value="4.832470860000692" />
-      <entry key="M10" value="17.226750565024002" />
-      <entry key="M15" value="34.45511978260413" />
-      <entry key="M30" value="92.19637220027307" />
-      <entry key="H1" value="212.30208676790983" />
-      <entry key="H2" value="430.67613742798875" />
-      <entry key="H4" value="726.8570866961875" />
-      <entry key="D1" value="1280.3991789811505" />
-      <entry key="W1" value="1429.87639540031" />
+      <entry key="MS100" value="1.4878677341064082" />
+      <entry key="MS500" value="3.4743020514634266" />
+      <entry key="S2" value="6.280231459383103" />
+      <entry key="S5" value="11.996175362218764" />
+      <entry key="S10" value="20.300407616977413" />
+      <entry key="S30" value="34.698478487942495" />
+      <entry key="S60" value="41.39528478260694" />
+      <entry key="M2" value="45.72531122788677" />
+      <entry key="M5" value="50.31369937960528" />
+      <entry key="M10" value="62.87676279702788" />
+      <entry key="M15" value="79.87349724148095" />
+      <entry key="M30" value="137.1925451714325" />
+      <entry key="H1" value="257.01187331608656" />
+      <entry key="H2" value="475.402828924753" />
+      <entry key="H4" value="772.1152434424206" />
+      <entry key="D1" value="1327.5976496976975" />
+      <entry key="W1" value="1477.7485926444099" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -91,61 +91,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Pattern01_Rectangle.executor": "Run",
-    "Application.Pattern_09.executor": "Run",
-    "Application.pattern_02.executor": "Run",
-    "Application.pattern_03.executor": "Run",
-    "Application.pattern_04.executor": "Run",
-    "Application.pattern_05.executor": "Run",
-    "Application.pattern_06.executor": "Run",
-    "Application.pattern_07.executor": "Run",
-    "Application.pattern_08.executor": "Run",
-    "Application.pattern_09.executor": "Run",
-    "Application.pattern_10.executor": "Run",
-    "Application.pattern_11.executor": "Run",
-    "Application.pattern_12.executor": "Run",
-    "Application.pattern_13.executor": "Run",
-    "Application.pattern_14.executor": "Run",
-    "Application.pattern_15.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Veer Gurnani/Documents/GitHub/dsa-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.tabs",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Pattern01_Rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_16.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Veer Gurnani/Documents/GitHub/dsa-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.pattern_16">
+}</component>
+  <component name="RunManager" selected="Application.pattern_17">
     <configuration name="Pattern01_Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.Pattern01_Rectangle" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pattern_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern_13" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -196,13 +184,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern_17" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern_17" />
         <item itemvalue="Application.pattern_16" />
         <item itemvalue="Application.pattern_15" />
         <item itemvalue="Application.pattern_14" />
         <item itemvalue="Application.Pattern01_Rectangle" />
-        <item itemvalue="Application.pattern_13" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +227,8 @@
       <workItem from="1782385303304" duration="3508000" />
       <workItem from="1782467166373" duration="8348000" />
       <workItem from="1782552102348" duration="10516000" />
-      <workItem from="1782642252130" duration="4478000" />
+      <workItem from="1782642252130" duration="4653000" />
+      <workItem from="1782718808436" duration="1559000" />
     </task>
     <servers />
   </component>
