@@ -71,7 +71,7 @@ src/
 
 - Patterns: **17 / 22**
 - Arrays: **In Progress**
-- LeetCode: **2 Problems Solved**
+- LeetCode: **3 Problems Solved**
 
 ---
 
