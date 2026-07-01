@@ -78,6 +78,7 @@ O(1)
 - LC 1929 - Concatenation of Array
 - LC 1752 - Check if Array is Sorted and Rotated
 - LC 26 - Remove Duplicates from Sorted Array
+- LC 414 - Third maximum number 
 
 ---
 
