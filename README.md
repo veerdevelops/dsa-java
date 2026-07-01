@@ -1,12 +1,23 @@
-# 🚀 DSA in Java
+# DSA in Java
 
 This repository contains my solutions to **Data Structures and Algorithms (DSA)** problems implemented in **Java**.
 
-## 📚 Learning Resources
+---
+
+## About
+
+This repository documents my DSA learning journey. I solve problems from trusted resources and organize them topic-wise for better understanding, revision, and interview preparation.
+
+---
+
+## Learning Resources
+
 - Striver's A2Z DSA Sheet
 - LeetCode
 
-## 🗂️ Topics Covered
+---
+
+## Topics Covered
 
 - ✅ Patterns
 - ⏳ Arrays
@@ -22,12 +33,15 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 - ⏳ Graphs
 - ⏳ Dynamic Programming
 
-## 📁 Repository Structure
+---
+
+## Repository Structure
 
 ```
 src/
 ├── patterns/
 ├── arrays/
+├── leetcode/
 ├── sorting/
 ├── binarysearch/
 ├── strings/
@@ -41,17 +55,32 @@ src/
 └── dp/
 ```
 
-## 🎯 Goal
+---
 
-- Build strong problem-solving skills.
-- Master Data Structures and Algorithms in Java.
-- Prepare for coding interviews and software engineering placements.
-- Maintain a well-organized GitHub portfolio.
+## Goals
 
-## 📈 Progress
+- Build strong problem-solving skills
+- Master core DSA concepts
+- Practice coding consistently
+- Prepare for coding interviews
+- Track learning progress
 
-- ✅ Java Basics
-- ✅ Git & GitHub Setup
-- 🔄 Patterns (In Progress)
-- ⏳ Arrays
-- ⏳ LeetCode Practice
+---
+
+## Progress
+
+- Patterns: **17 / 22**
+- Arrays: **In Progress**
+- LeetCode: **2 Problems Solved**
+
+---
+
+## Language
+
+- Java
+
+---
+
+## Connect
+
+This repository is part of my continuous learning journey in Data Structures and Algorithms.
