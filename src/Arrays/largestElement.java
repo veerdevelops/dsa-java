@@ -1,5 +1,5 @@
 package Arrays;
-
+// linear traversal hai ye
 public class largestElement {
     public static void main(String[] args) {
         int[]arr ={10,20,5,100,30};
