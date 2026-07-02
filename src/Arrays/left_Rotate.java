@@ -1,5 +1,5 @@
 package Arrays;
-
+//in place index manipulation hai ye
 public class left_Rotate {
     public static void main(String[] args) {
        int []arr = {1,2,3,4,5};
