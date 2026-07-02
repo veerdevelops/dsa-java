@@ -12,5 +12,5 @@ public class remve_duplicates {
         }
         System.out.println("Number of unique elements: " + (i + 1));
     }
-
+//two pointer first solve
 }
