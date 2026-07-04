@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/prblm_283.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/OptimalSoln_189.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/OptimalSoln_189.java" afterDir="false" />
-    </list>
+    <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,54 +29,54 @@
       <entry key="S10" value="1.0" />
       <entry key="S30" value="1.0" />
       <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.000000010416496" />
-      <entry key="M5" value="1.0069195063722909" />
-      <entry key="M10" value="1.6459185522593702" />
-      <entry key="M15" value="4.124837585706119" />
-      <entry key="M30" value="21.58185157977924" />
-      <entry key="H1" value="92.73780933609831" />
-      <entry key="H2" value="299.86952987695014" />
-      <entry key="H4" value="724.1152025574502" />
-      <entry key="D1" value="2330.9379464400918" />
-      <entry key="W1" value="3037.401229407418" />
+      <entry key="M2" value="1.0000000472414303" />
+      <entry key="M5" value="1.0128500175232216" />
+      <entry key="M10" value="1.8419831022885063" />
+      <entry key="M15" value="4.528407312817109" />
+      <entry key="M30" value="19.41672346929971" />
+      <entry key="H1" value="73.0458535358265" />
+      <entry key="H2" value="248.70696772608466" />
+      <entry key="H4" value="651.9000388880835" />
+      <entry key="D1" value="2315.4830943422257" />
+      <entry key="W1" value="3078.373806894701" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="2.9867198012657765E-20" />
-      <entry key="MS500" value="1.24462607787865E-4" />
-      <entry key="S2" value="0.10562329805156417" />
-      <entry key="S5" value="0.4069151782032644" />
-      <entry key="S10" value="0.6378990344899923" />
-      <entry key="S30" value="0.8608298437109339" />
-      <entry key="S60" value="0.927809163411816" />
-      <entry key="M2" value="0.9632285105167335" />
-      <entry key="M5" value="0.9851888581491524" />
-      <entry key="M10" value="1.0007323545429296" />
-      <entry key="M15" value="1.0395021219538283" />
-      <entry key="M30" value="1.3009120233320455" />
-      <entry key="H1" value="2.1152306880082294" />
-      <entry key="H2" value="4.149517461772088" />
-      <entry key="H4" value="8.637905323382581" />
-      <entry key="D1" value="28.063912364610083" />
-      <entry key="W1" value="37.13331003352494" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="4.571912808035968E-217" />
+      <entry key="S10" value="6.768005848510985E-109" />
+      <entry key="S30" value="9.639596389630197E-37" />
+      <entry key="S60" value="1.2305481082955542E-18" />
+      <entry key="M2" value="1.509845183625847E-9" />
+      <entry key="M5" value="4.4454306914719084E-4" />
+      <entry key="M10" value="0.029883011052087988" />
+      <entry key="M15" value="0.1235683839000824" />
+      <entry key="M30" value="0.5651249354278693" />
+      <entry key="H1" value="1.5406383927516814" />
+      <entry key="H2" value="3.617169175419568" />
+      <entry key="H4" value="8.074306785228947" />
+      <entry key="D1" value="28.217492212634472" />
+      <entry key="W1" value="37.97261056913577" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1688300977739257E-13" />
-      <entry key="MS500" value="0.002614880339914619" />
-      <entry key="S2" value="0.2951658144021596" />
-      <entry key="S5" value="0.8955252028988323" />
-      <entry key="S10" value="1.329210356199075" />
-      <entry key="S30" value="1.7426827855052127" />
-      <entry key="S60" value="1.8665543915718004" />
-      <entry key="M2" value="1.9320325476865063" />
-      <entry key="M5" value="1.9794877694868431" />
-      <entry key="M10" value="2.6401572181661237" />
-      <entry key="M15" value="5.159545922402681" />
-      <entry key="M30" value="22.878642259270627" />
-      <entry key="H1" value="94.8479241605817" />
-      <entry key="H2" value="304.01247858113175" />
-      <entry key="H4" value="732.7448824994557" />
-      <entry key="D1" value="2358.996441539204" />
-      <entry key="W1" value="3074.5334868793434" />
+      <entry key="MS100" value="0.7526233737055336" />
+      <entry key="MS500" value="0.9447470409972061" />
+      <entry key="S2" value="0.9858909615070789" />
+      <entry key="S5" value="0.9943323153899832" />
+      <entry key="S10" value="0.9971621309446038" />
+      <entry key="S30" value="0.9990531474013182" />
+      <entry key="S60" value="0.9995264615813422" />
+      <entry key="M2" value="0.9997632514697528" />
+      <entry key="M5" value="1.0131954340864529" />
+      <entry key="M10" value="1.871667019324708" />
+      <entry key="M15" value="4.651504200041827" />
+      <entry key="M30" value="19.980517170032325" />
+      <entry key="H1" value="74.58364976468636" />
+      <entry key="H2" value="252.3193015324107" />
+      <entry key="H4" value="659.9673219559384" />
+      <entry key="D1" value="2343.6953010552384" />
+      <entry key="W1" value="3116.345365514811" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -92,64 +88,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.OptimalSoln_189.executor": "Run",
-    "Application.Pattern01_Rectangle.executor": "Run",
-    "Application.Pattern_09.executor": "Run",
-    "Application.largestElement.executor": "Run",
-    "Application.left_Rotate.executor": "Run",
-    "Application.pattern_02.executor": "Run",
-    "Application.pattern_03.executor": "Run",
-    "Application.pattern_04.executor": "Run",
-    "Application.pattern_05.executor": "Run",
-    "Application.pattern_06.executor": "Run",
-    "Application.pattern_07.executor": "Run",
-    "Application.pattern_08.executor": "Run",
-    "Application.pattern_09.executor": "Run",
-    "Application.pattern_10.executor": "Run",
-    "Application.pattern_11.executor": "Run",
-    "Application.pattern_12.executor": "Run",
-    "Application.pattern_13.executor": "Run",
-    "Application.pattern_14.executor": "Run",
-    "Application.pattern_15.executor": "Run",
-    "Application.pattern_16.executor": "Run",
-    "Application.pattern_17.executor": "Run",
-    "Application.prblm_1752.executor": "Run",
-    "Application.prblm_1929.executor": "Run",
-    "Application.prblm_26.executor": "Run",
-    "Application.prblm_414.executor": "Run",
-    "Application.remve_duplicates.executor": "Run",
-    "Application.rotateD.executor": "Run",
-    "Application.secondLargest.executor": "Run",
-    "Application.sorting.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Veer Gurnani/Documents/GitHub/dsa-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.tabs",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.OptimalSoln_189.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern01_Rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.largestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.left_Rotate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_08.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pattern_17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prblm_1752.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prblm_1929.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prblm_26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prblm_283.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prblm_414.executor&quot;: &quot;Run&quot;,
+    &quot;Application.remve_duplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rotateD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.secondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sorting.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Veer Gurnani/Documents/GitHub/dsa-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.prblm_283">
+  <component name="RunManager" selected="Application.linear_search">
     <configuration name="OptimalSoln_189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.OptimalSoln_189" />
       <module name="dsa-java" />
@@ -176,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prblm_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.prblm_26" />
+    <configuration name="linear_search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.linear_search" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.linear_search" />
         <item itemvalue="Application.prblm_283" />
         <item itemvalue="Application.OptimalSoln_189" />
         <item itemvalue="Application.rotateD" />
         <item itemvalue="Application.left_Rotate" />
-        <item itemvalue="Application.prblm_26" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +249,8 @@
       <workItem from="1782898058418" duration="5717000" />
       <workItem from="1782915294411" duration="1788000" />
       <workItem from="1782982462101" duration="11428000" />
-      <workItem from="1783078012700" duration="4305000" />
+      <workItem from="1783078012700" duration="4886000" />
+      <workItem from="1783172087157" duration="1741000" />
     </task>
     <servers />
   </component>
