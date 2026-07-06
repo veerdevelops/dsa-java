@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsa-java/leetcode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dsa-java/leetcode/prblm_283.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/prblm_283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/prblm_283.java" afterDir="false" />
-    </list>
+    <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,7 +256,7 @@
       <workItem from="1783172087157" duration="3145000" />
       <workItem from="1783245245307" duration="8263000" />
       <workItem from="1783265069103" duration="897000" />
-      <workItem from="1783337739423" duration="1883000" />
+      <workItem from="1783337739423" duration="2253000" />
     </task>
     <servers />
   </component>
