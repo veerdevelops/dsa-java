@@ -154,9 +154,22 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XOR">
+  <component name="RunManager" selected="Application.XorSoln_136">
     <configuration name="XOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.XOR" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XorSoln_136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.XorSoln_136" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -194,19 +207,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prblm_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.prblm_283" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="prblm_485" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.prblm_485" />
       <module name="dsa-java" />
@@ -222,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XorSoln_136" />
         <item itemvalue="Application.XOR" />
         <item itemvalue="Application.prblm_136" />
         <item itemvalue="Application.prblm_485" />
         <item itemvalue="Application.prblm_268" />
-        <item itemvalue="Application.prblm_283" />
       </list>
     </recent_temporary>
   </component>
