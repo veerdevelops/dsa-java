@@ -83,4 +83,4 @@ src/
 
 ## Connect
 
-This repository is part of my continuous learning journey in Data Structures and Algorithms.
+This repository is part of my continuous learning journey in Data Structures and Algorithm.
