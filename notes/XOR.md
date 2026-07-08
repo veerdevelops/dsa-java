@@ -4,7 +4,7 @@
 
 Given a **non-empty** array of integers, every element appears **twice** except for **one** element.
 
-Find that single elements.
+Find that single element.
 
 ---
 
