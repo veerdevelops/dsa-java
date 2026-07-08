@@ -159,7 +159,7 @@ map.put(num, map.getOrDefault(num, 0) + 1);
 
 Meaning:
 
-- Check if the number already exists.
+- Check if the numbers already exists.
 - If it exists, get its frequency.
 - If it does not exist, use `0`.
 - Increase the frequency by `1`.
