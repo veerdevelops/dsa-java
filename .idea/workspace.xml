@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/notes/hashmap.md" beforeDir="false" afterPath="$PROJECT_DIR$/notes/hashmap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/LongestSubpos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.8539094170186017" />
-      <entry key="MS500" value="3.485386566212596" />
-      <entry key="S2" value="6.17323557142731" />
-      <entry key="S5" value="10.31851344941736" />
-      <entry key="S10" value="16.436047116587297" />
-      <entry key="S30" value="26.797677712612373" />
-      <entry key="S60" value="33.86358742733457" />
-      <entry key="M2" value="47.55907832824954" />
-      <entry key="M5" value="71.25488041479453" />
-      <entry key="M10" value="85.32667514412083" />
-      <entry key="M15" value="92.81607288488749" />
-      <entry key="M30" value="122.06567435120388" />
-      <entry key="H1" value="203.17580920177147" />
-      <entry key="H2" value="378.3307729559869" />
-      <entry key="H4" value="745.8514583016533" />
-      <entry key="D1" value="2764.6223069176203" />
-      <entry key="W1" value="3937.2663225915235" />
+      <entry key="MS100" value="2.095221742058782" />
+      <entry key="MS500" value="3.5492741475979006" />
+      <entry key="S2" value="7.432815592148813" />
+      <entry key="S5" value="15.274602677036418" />
+      <entry key="S10" value="26.24730908118339" />
+      <entry key="S30" value="55.854732252093335" />
+      <entry key="S60" value="87.10627684839932" />
+      <entry key="M2" value="127.87932174007125" />
+      <entry key="M5" value="184.2164462991659" />
+      <entry key="M10" value="217.07508260739235" />
+      <entry key="M15" value="232.2789809490783" />
+      <entry key="M30" value="269.24839423405047" />
+      <entry key="H1" value="353.6731881428344" />
+      <entry key="H2" value="530.3154117397411" />
+      <entry key="H4" value="898.4517946536415" />
+      <entry key="D1" value="2919.908075036586" />
+      <entry key="W1" value="4095.515877945325" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.658231768028651E-144" />
-      <entry key="S2" value="1.1347790457842924E-36" />
-      <entry key="S5" value="4.187593558634733E-15" />
-      <entry key="S10" value="6.47116184207653E-8" />
-      <entry key="S30" value="0.004014770772696426" />
-      <entry key="S60" value="0.06336221881134237" />
-      <entry key="M2" value="0.2517185309256001" />
-      <entry key="M5" value="0.5759253965267422" />
-      <entry key="M10" value="0.7593501621448732" />
-      <entry key="M15" value="0.8378983825419208" />
-      <entry key="M30" value="0.9916571935547652" />
-      <entry key="H1" value="1.3241172551161824" />
-      <entry key="H2" value="2.3035234680610834" />
-      <entry key="H4" value="5.338080833393751" />
-      <entry key="D1" value="27.648329570495836" />
-      <entry key="W1" value="41.83701609834046" />
+      <entry key="MS500" value="7.222643975531916E-243" />
+      <entry key="S2" value="2.9152382390214042E-61" />
+      <entry key="S5" value="6.107586419859756E-25" />
+      <entry key="S10" value="7.815104874446502E-13" />
+      <entry key="S30" value="9.211102253069979E-5" />
+      <entry key="S60" value="0.009597448751136951" />
+      <entry key="M2" value="0.09796656955889042" />
+      <entry key="M5" value="0.3948492477544843" />
+      <entry key="M10" value="0.6287451275199906" />
+      <entry key="M15" value="0.7388331623175746" />
+      <entry key="M30" value="0.9311916667030797" />
+      <entry key="H1" value="1.2831138776247197" />
+      <entry key="H2" value="2.2675768767787177" />
+      <entry key="H4" value="5.296266563229292" />
+      <entry key="D1" value="27.61211536343659" />
+      <entry key="W1" value="41.8291833050559" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.7100019939044906" />
-      <entry key="MS500" value="3.3687519278845923" />
-      <entry key="S2" value="6.123589631272738" />
-      <entry key="S5" value="10.286833892569115" />
-      <entry key="S10" value="16.407682797416275" />
-      <entry key="S30" value="26.782137684292" />
-      <entry key="S60" value="33.91149722197855" />
-      <entry key="M2" value="47.796649424971655" />
-      <entry key="M5" value="71.82080385671482" />
-      <entry key="M10" value="86.07977416402673" />
-      <entry key="M15" value="93.64940211450269" />
-      <entry key="M30" value="123.05439673971068" />
-      <entry key="H1" value="204.49724289997852" />
-      <entry key="H2" value="380.63075060248826" />
-      <entry key="H4" value="751.1844842041853" />
-      <entry key="D1" value="2792.2654017944806" />
-      <entry key="W1" value="3979.1021724080433" />
+      <entry key="MS100" value="1.9655110911014044" />
+      <entry key="MS500" value="3.490633479880817" />
+      <entry key="S2" value="7.391604928723207" />
+      <entry key="S5" value="15.24262106946125" />
+      <entry key="S10" value="26.21905973750672" />
+      <entry key="S30" value="55.83256121722653" />
+      <entry key="S60" value="87.09676573478889" />
+      <entry key="M2" value="127.96043546520677" />
+      <entry key="M5" value="184.59878587310317" />
+      <entry key="M10" value="217.6955897845286" />
+      <entry key="M15" value="233.0116869211894" />
+      <entry key="M30" value="270.1757512226131" />
+      <entry key="H1" value="354.9531544901604" />
+      <entry key="H2" value="532.5792226439247" />
+      <entry key="H4" value="903.7429076498344" />
+      <entry key="D1" value="2947.5149394556543" />
+      <entry key="W1" value="4137.343891884196" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -155,7 +156,20 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.XorSoln_136">
+  <component name="RunManager" selected="Application.LongestSubpos">
+    <configuration name="LongestSubpos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LongestSubpos" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="XOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.XOR" />
       <module name="dsa-java" />
@@ -195,19 +209,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prblm_268" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.prblm_268" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="prblm_485" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.prblm_485" />
       <module name="dsa-java" />
@@ -223,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSubpos" />
         <item itemvalue="Application.XorSoln_136" />
         <item itemvalue="Application.XOR" />
         <item itemvalue="Application.prblm_136" />
         <item itemvalue="Application.prblm_485" />
-        <item itemvalue="Application.prblm_268" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +265,8 @@
       <workItem from="1783265069103" duration="897000" />
       <workItem from="1783337739423" duration="3766000" />
       <workItem from="1783412944901" duration="8651000" />
-      <workItem from="1783525207523" duration="3046000" />
+      <workItem from="1783525207523" duration="3239000" />
+      <workItem from="1783592635070" duration="1042000" />
     </task>
     <servers />
   </component>
