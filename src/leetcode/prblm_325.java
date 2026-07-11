@@ -24,5 +24,5 @@ public class prblm_325 {
 
             }
             System.out.println("Longest subarray length with sum = " + k + " is: " + maxLen);
-        }//refer krna md file name max sizw sub array
+        }//refer krna md file name max size sub array
     }}
