@@ -24,5 +24,5 @@ public class prblm_325 {
 
             }
             System.out.println("Longest subarray length with sum = " + k + " is: " + maxLen);
-        }
+        }//print the i for sub array
     }}
