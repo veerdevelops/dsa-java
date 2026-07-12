@@ -532,4 +532,4 @@ remaining = prefixSum - k
 - HashMap
 - Frequency Counting
 - Running Sum
-- Subarray Problem
+- Subarray Problems
