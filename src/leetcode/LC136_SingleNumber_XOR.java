@@ -1,6 +1,6 @@
 package leetcode;
 
-public class XorSoln_136 {
+public class LC136_SingleNumber_XOR {
 
     public static int singleNumber(int[] nums) {
 
