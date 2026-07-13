@@ -1,6 +1,6 @@
 package leetcode;
 import java.util.HashMap;
-public class prblm_325 {
+public class LC325_MaximumSizeSubarraySumEqualsK {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3};
         int k = 3;
