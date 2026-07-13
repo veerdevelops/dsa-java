@@ -1,6 +1,6 @@
 package leetcode;
 
-public class prblm_283 {
+public class LC283_MoveZeroes {
 
     public static void main(String[] args) {
 
