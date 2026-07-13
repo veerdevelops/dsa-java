@@ -1,6 +1,6 @@
 package leetcode;
 //brute force approach hai {not optimised}
-public class prblm_1 {
+public class LC1_TwoSum {
     public static void main(String[] args) {
         int []nums = {2,7,11,15};
         int target =9;
