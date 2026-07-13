@@ -1,6 +1,6 @@
 package leetcode;
 
-public class prblm_268 {
+public class LC268_MissingNumber {
 
     public static int missingNumber(int[] nums) {
 
