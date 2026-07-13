@@ -2,7 +2,7 @@ package leetcode;
 // hashmap hai bhai key value
 import java.util.HashMap;
 
-public class prblm_136 {
+public class LC136_SingleNumber_HashMap {
 
     public static int singleNumber(int[] nums) {
 
