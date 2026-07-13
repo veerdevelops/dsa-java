@@ -158,9 +158,22 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.prblm_1optimal">
+  <component name="RunManager" selected="Application.LC1_TwoSum_HashMap">
     <configuration name="LC1_TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.LC1_TwoSum" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LC1_TwoSum_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC1_TwoSum_HashMap" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -178,19 +191,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="prblm_1optimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.prblm_1optimal" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,7 +226,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.prblm_1optimal" />
+        <item itemvalue="Application.LC1_TwoSum_HashMap" />
         <item itemvalue="Application.LC1_TwoSum" />
         <item itemvalue="Application.prblm_560" />
         <item itemvalue="Application.prblm_325" />

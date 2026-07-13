@@ -1,6 +1,6 @@
 package leetcode;
 // two pointer
-public class prblm_26 {
+public class LC26_RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
         int []nums ={1,1,2,2,2,3,4,4};
         int i =0;
