@@ -1,6 +1,6 @@
 package leetcode;
 
-public class prblm_1752 {
+public class LC1752_CheckIfArrayIsSortedAndRotated {
     public static void main(String[] args) {
      int [] nums = {3,7,5,6,2};
      int count =0;
