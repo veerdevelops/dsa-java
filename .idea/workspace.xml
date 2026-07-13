@@ -159,12 +159,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.prblm_1optimal">
-    <configuration name="LongestSubpos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LongestSubpos" />
+    <configuration name="LC1_TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC1_TwoSum" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prblm_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.prblm_1" />
+    <configuration name="LongestSubpos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LongestSubpos" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,7 +227,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.prblm_1optimal" />
-        <item itemvalue="Application.prblm_1" />
+        <item itemvalue="Application.LC1_TwoSum" />
         <item itemvalue="Application.prblm_560" />
         <item itemvalue="Application.prblm_325" />
         <item itemvalue="Application.LongestSubpos" />
