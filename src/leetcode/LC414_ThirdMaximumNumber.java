@@ -1,6 +1,6 @@
 package leetcode;
 //This is brute force method not the optimal solution take time complexity 0(n).
-public class prblm_414 {
+public class LC414_ThirdMaximumNumber {
 
     public static void main(String[] args) {
 

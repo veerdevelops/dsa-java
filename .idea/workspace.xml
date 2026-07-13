@@ -22,61 +22,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.487384617569942" />
-      <entry key="MS500" value="3.4922886228600625" />
-      <entry key="S2" value="6.931239739311743" />
-      <entry key="S5" value="12.107852662125895" />
-      <entry key="S10" value="18.858107206805652" />
-      <entry key="S30" value="39.80396491890394" />
-      <entry key="S60" value="63.29484080943897" />
-      <entry key="M2" value="88.2457883935351" />
-      <entry key="M5" value="119.60737691462046" />
-      <entry key="M10" value="165.72747642621664" />
-      <entry key="M15" value="221.65552484099396" />
-      <entry key="M30" value="396.0290183746616" />
-      <entry key="H1" value="645.0107764113592" />
-      <entry key="H2" value="954.652691464435" />
-      <entry key="H4" value="1409.7550453222145" />
-      <entry key="D1" value="3746.1540851209666" />
-      <entry key="W1" value="5259.15132994111" />
+      <entry key="MS100" value="1.522547391606201" />
+      <entry key="MS500" value="3.118067718797252" />
+      <entry key="S2" value="5.818590213042757" />
+      <entry key="S5" value="10.890401781605027" />
+      <entry key="S10" value="17.42946282989163" />
+      <entry key="S30" value="39.27464577624493" />
+      <entry key="S60" value="70.75086784436633" />
+      <entry key="M2" value="126.2521899177458" />
+      <entry key="M5" value="224.24372985944" />
+      <entry key="M10" value="309.3745957120211" />
+      <entry key="M15" value="378.82043566138884" />
+      <entry key="M30" value="567.2647791248397" />
+      <entry key="H1" value="829.795172390215" />
+      <entry key="H2" value="1152.244020848145" />
+      <entry key="H4" value="1616.4174061782694" />
+      <entry key="D1" value="3966.2012166449945" />
+      <entry key="W1" value="5487.168664083999" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.4433154195821523E-245" />
-      <entry key="S5" value="1.1662183834616926E-98" />
-      <entry key="S10" value="1.1979009374910885E-49" />
-      <entry key="S30" value="8.6457446424901E-17" />
-      <entry key="S60" value="1.7675147825671006E-8" />
-      <entry key="M2" value="2.8049681583195823E-4" />
-      <entry key="M5" value="0.10005671914627731" />
-      <entry key="M10" value="0.8319569646987025" />
-      <entry key="M15" value="1.9384908458602605" />
-      <entry key="M30" value="5.3769737853880635" />
-      <entry key="H1" value="9.825633910990774" />
-      <entry key="H2" value="13.94478956478826" />
-      <entry key="H4" value="18.287040401637636" />
-      <entry key="D1" value="42.4726398093663" />
-      <entry key="W1" value="59.92485719846156" />
+      <entry key="S2" value="4.028836525625407E-294" />
+      <entry key="S5" value="4.416794982849231E-118" />
+      <entry key="S10" value="2.331227103433649E-59" />
+      <entry key="S30" value="5.010221933358959E-20" />
+      <entry key="S60" value="4.254909570895157E-10" />
+      <entry key="M2" value="4.352026943890491E-5" />
+      <entry key="M5" value="0.04748448304213606" />
+      <entry key="M10" value="0.5731305911245875" />
+      <entry key="M15" value="1.5120479827995916" />
+      <entry key="M30" value="4.748854117527295" />
+      <entry key="H1" value="9.233918425447907" />
+      <entry key="H2" value="13.51838130660698" />
+      <entry key="H4" value="18.005276209674307" />
+      <entry key="D1" value="42.36286416719013" />
+      <entry key="W1" value="59.90270650795484" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.3684468339991245" />
-      <entry key="MS500" value="3.4100216635721634" />
-      <entry key="S2" value="6.895773169440605" />
-      <entry key="S5" value="12.085732767381128" />
-      <entry key="S10" value="18.84141085841602" />
-      <entry key="S30" value="39.79275832265712" />
-      <entry key="S60" value="63.286143707411206" />
-      <entry key="M2" value="88.24005132932687" />
-      <entry key="M5" value="119.70081483185896" />
-      <entry key="M10" value="166.54339997669197" />
-      <entry key="M15" value="223.57146792996292" />
-      <entry key="M30" value="401.37797095262" />
-      <entry key="H1" value="654.8122227017485" />
-      <entry key="H2" value="968.580546476975" />
-      <entry key="H4" value="1428.0303534681887" />
-      <entry key="D1" value="3788.620342435096" />
-      <entry key="W1" value="5319.074775202245" />
+      <entry key="MS100" value="1.4602910502721365" />
+      <entry key="MS500" value="3.052262683572711" />
+      <entry key="S2" value="5.789891824276085" />
+      <entry key="S5" value="10.871945768864933" />
+      <entry key="S10" value="17.414566903808016" />
+      <entry key="S30" value="39.262265484062326" />
+      <entry key="S60" value="70.7397133231687" />
+      <entry key="M2" value="126.24257923098378" />
+      <entry key="M5" value="224.28298701032062" />
+      <entry key="M10" value="309.93373965621953" />
+      <entry key="M15" value="380.3128329888106" />
+      <entry key="M30" value="571.9877987500793" />
+      <entry key="H1" value="839.0058019359963" />
+      <entry key="H2" value="1165.745702749024" />
+      <entry key="H4" value="1634.4109886096624" />
+      <entry key="D1" value="4008.557690964948" />
+      <entry key="W1" value="5547.069955766352" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -185,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubpos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.LongestSubpos" />
+    <configuration name="LC325_MaximumSizeSubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC325_MaximumSizeSubarraySumEqualsK" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prblm_325" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.prblm_325" />
+    <configuration name="LongestSubpos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.LongestSubpos" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,7 +229,7 @@
         <item itemvalue="Application.LC1_TwoSum_HashMap" />
         <item itemvalue="Application.LC1_TwoSum" />
         <item itemvalue="Application.prblm_560" />
-        <item itemvalue="Application.prblm_325" />
+        <item itemvalue="Application.LC325_MaximumSizeSubarraySumEqualsK" />
         <item itemvalue="Application.LongestSubpos" />
       </list>
     </recent_temporary>
@@ -271,7 +271,7 @@
       <workItem from="1783592635070" duration="2629000" />
       <workItem from="1783763941492" duration="5022000" />
       <workItem from="1783859630402" duration="3331000" />
-      <workItem from="1783947443410" duration="3759000" />
+      <workItem from="1783947443410" duration="4081000" />
     </task>
     <servers />
   </component>
