@@ -1,6 +1,6 @@
 package leetcode;
 import java.util.Arrays;
-public class prblm_1929 {
+public class LC1929_ConcatenationOfArray {
     public static void main(String[] args) {
         int[] nums = {1, 2, 1};
         int n = nums.length;

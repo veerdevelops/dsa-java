@@ -198,6 +198,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LC560_SubarraySumEqualsK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC560_SubarraySumEqualsK" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestSubpos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.LongestSubpos" />
       <module name="dsa-java" />
@@ -211,24 +224,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prblm_560" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.prblm_560" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.LC1_TwoSum_HashMap" />
         <item itemvalue="Application.LC1_TwoSum" />
-        <item itemvalue="Application.prblm_560" />
+        <item itemvalue="Application.LC560_SubarraySumEqualsK" />
         <item itemvalue="Application.LC325_MaximumSizeSubarraySumEqualsK" />
         <item itemvalue="Application.LongestSubpos" />
       </list>
