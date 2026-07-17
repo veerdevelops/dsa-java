@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LC169_MajorityElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/PrefixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/PrefixSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000001280273012" />
-      <entry key="MS500" value="1.0542643585046028" />
-      <entry key="S2" value="2.0918616623712225" />
-      <entry key="S5" value="4.2195151573663505" />
-      <entry key="S10" value="6.80358480119943" />
-      <entry key="S30" value="11.118976289922966" />
-      <entry key="S60" value="15.551120682515485" />
-      <entry key="M2" value="24.314669373353894" />
-      <entry key="M5" value="52.862815882355854" />
-      <entry key="M10" value="95.60161315932507" />
-      <entry key="M15" value="126.17689623666216" />
-      <entry key="M30" value="208.14849063165508" />
-      <entry key="H1" value="431.48296114874245" />
-      <entry key="H2" value="859.9097693826868" />
-      <entry key="H4" value="1480.9558606296348" />
-      <entry key="D1" value="4158.316400407812" />
-      <entry key="W1" value="5884.81965245485" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000002032839994" />
+      <entry key="S2" value="1.0212337059627103" />
+      <entry key="S5" value="1.2141954886921424" />
+      <entry key="S10" value="1.4628125848463311" />
+      <entry key="S30" value="1.7735144035662362" />
+      <entry key="S60" value="1.8801927891130168" />
+      <entry key="M2" value="2.046573724643042" />
+      <entry key="M5" value="4.291092571834838" />
+      <entry key="M10" value="8.910566994046743" />
+      <entry key="M15" value="14.903880765102215" />
+      <entry key="M30" value="52.50456346002352" />
+      <entry key="H1" value="200.8616208587685" />
+      <entry key="H2" value="580.1585104567004" />
+      <entry key="H4" value="1221.0912993778652" />
+      <entry key="D1" value="4058.126264223727" />
+      <entry key="W1" value="5914.3723114713375" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.2898074172574082E-123" />
-      <entry key="S2" value="1.8950962301504356E-31" />
-      <entry key="S5" value="5.149689533645011E-13" />
-      <entry key="S10" value="7.463915055351781E-7" />
-      <entry key="S30" value="0.012036066855150714" />
-      <entry key="S60" value="0.15023276785716683" />
-      <entry key="M2" value="0.5555870942714756" />
-      <entry key="M5" value="1.4635514673723318" />
-      <entry key="M10" value="2.4518967228776267" />
-      <entry key="M15" value="3.119798981795981" />
-      <entry key="M30" value="4.503386205305549" />
-      <entry key="H1" value="7.437578468682039" />
-      <entry key="H2" value="12.72834184759281" />
-      <entry key="H4" value="19.416671736493996" />
-      <entry key="D1" value="47.60077045182752" />
-      <entry key="W1" value="67.34002273092747" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="7.576501362834136E-293" />
+      <entry key="S10" value="8.70431008107579E-147" />
+      <entry key="S30" value="2.0606889334300936E-49" />
+      <entry key="S60" value="4.796703626877301E-25" />
+      <entry key="M2" value="9.051363860372569E-13" />
+      <entry key="M5" value="2.9878677991537706E-5" />
+      <entry key="M10" value="0.011873040894565165" />
+      <entry key="M15" value="0.09356840934723534" />
+      <entry key="M30" value="0.8276761731303893" />
+      <entry key="H1" value="3.268765641546378" />
+      <entry key="H2" value="8.541627283651872" />
+      <entry key="H4" value="16.102915254791917" />
+      <entry key="D1" value="46.714837588152236" />
+      <entry key="W1" value="67.95468446073339" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="3.50089906785105E-4" />
-      <entry key="MS500" value="0.22393570093846962" />
-      <entry key="S2" value="1.3931895037889308" />
-      <entry key="S5" value="3.598490598991066" />
-      <entry key="S10" value="6.325338892860977" />
-      <entry key="S30" value="10.889768781830615" />
-      <entry key="S60" value="15.538065332930515" />
-      <entry key="M2" value="24.741936323221683" />
-      <entry key="M5" value="54.20680870594852" />
-      <entry key="M10" value="97.94946618290493" />
-      <entry key="M15" value="129.20907270709418" />
-      <entry key="M30" value="212.59295543325018" />
-      <entry key="H1" value="438.88081181058556" />
-      <entry key="H2" value="872.6107210007292" />
-      <entry key="H4" value="1500.3539817060366" />
-      <entry key="D1" value="4205.909283083689" />
-      <entry key="W1" value="5952.157999583831" />
+      <entry key="MS100" value="0.8526348917679567" />
+      <entry key="MS500" value="0.9686183842296743" />
+      <entry key="S2" value="1.013074571578608" />
+      <entry key="S5" value="1.210123125292084" />
+      <entry key="S10" value="1.460258224664714" />
+      <entry key="S30" value="1.7724471566114912" />
+      <entry key="S60" value="1.8796047299175525" />
+      <entry key="M2" value="2.0449747691291864" />
+      <entry key="M5" value="4.280370154898861" />
+      <entry key="M10" value="8.907447340377908" />
+      <entry key="M15" value="14.981772788361626" />
+      <entry key="M30" value="53.313619818553846" />
+      <entry key="H1" value="204.10903547649195" />
+      <entry key="H2" value="588.6797597833979" />
+      <entry key="H4" value="1237.1778108617038" />
+      <entry key="D1" value="4104.833208507289" />
+      <entry key="W1" value="5982.325284839595" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -94,6 +94,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arrays.PrefixSum.executor": "Run",
+    "Application.LC169_MajorityElement.executor": "Run",
     "Application.LC75_SortColors.executor": "Run",
     "Application.LongestSubpos.executor": "Run",
     "Application.OptimalSoln_189.executor": "Run",
@@ -165,7 +166,7 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Arrays.PrefixSum">
+  <component name="RunManager" selected="Application.LC169_MajorityElement">
     <configuration name="Arrays.PrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.PrefixSum" />
       <module name="dsa-java" />
@@ -179,8 +180,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC75_SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.LC75_SortColors" />
+    <configuration name="LC169_MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC169_MajorityElement" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -192,8 +193,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC75_SortColorsBrute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.LC75_SortColorsBrute" />
+    <configuration name="LC75_SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC75_SortColors" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -228,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC169_MajorityElement" />
         <item itemvalue="Application.Arrays.PrefixSum" />
         <item itemvalue="Application.PrefixSum (1)" />
         <item itemvalue="Application.PrefixSum" />
         <item itemvalue="Application.LC75_SortColors" />
-        <item itemvalue="Application.LC75_SortColorsBrute" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +276,9 @@
       <workItem from="1783859630402" duration="3331000" />
       <workItem from="1783947443410" duration="4446000" />
       <workItem from="1784110718657" duration="8969000" />
-      <workItem from="1784181645562" duration="1104000" />
+      <workItem from="1784181645562" duration="2113000" />
+      <workItem from="1784262180120" duration="618000" />
+      <workItem from="1784286709476" duration="3070000" />
     </task>
     <servers />
   </component>
