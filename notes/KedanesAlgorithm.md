@@ -270,7 +270,7 @@ Reset to 0
 
 ---
 
-## Compariso
+## Comparison
 
 | Approach | Time | Space |
 |----------|------|------|
