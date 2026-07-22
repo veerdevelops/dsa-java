@@ -256,7 +256,7 @@ int maxSum = 0;
 
 ---
 
-## Memory Trick
+## Memory Tric
 
 ```text
 Add current element
