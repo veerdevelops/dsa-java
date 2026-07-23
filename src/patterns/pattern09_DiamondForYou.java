@@ -1,6 +1,6 @@
 package patterns;
 
-public class pattern_09 {
+public class pattern09_DiamondForYou {
     public static void main(String[] args) {
 
         int n = 5;
