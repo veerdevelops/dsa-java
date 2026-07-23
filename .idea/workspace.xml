@@ -163,7 +163,7 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pattern_03">
+  <component name="RunManager" selected="Application.pattern_04">
     <configuration name="Arrays.PrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.PrefixSum" />
       <module name="dsa-java" />
@@ -190,14 +190,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixSum (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="PrefixSum" />
-      <module name="dsa-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="pattern02_RightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.pattern02_RightTriangle" />
       <module name="dsa-java" />
@@ -211,8 +203,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern_03" />
+    <configuration name="pattern03_NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern03_NumberTriangle" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern_04" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -226,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pattern_03" />
+        <item itemvalue="Application.pattern_04" />
+        <item itemvalue="Application.pattern03_NumberTriangle" />
         <item itemvalue="Application.pattern02_RightTriangle" />
         <item itemvalue="Application.LC169_MajorityElement" />
         <item itemvalue="Application.Arrays.PrefixSum" />
-        <item itemvalue="Application.PrefixSum (1)" />
       </list>
     </recent_temporary>
   </component>

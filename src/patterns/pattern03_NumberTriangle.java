@@ -1,6 +1,6 @@
 package patterns;
 
-public class pattern_03 {
+public class pattern03_NumberTriangle {
     public static void main(String[] args) {
         int n=5;
         for(int i=1;i<=n;i++){
