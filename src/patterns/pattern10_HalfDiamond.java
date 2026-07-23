@@ -1,5 +1,5 @@
 package patterns;
-public class pattern_10{
+public class pattern10_HalfDiamond {
     public static void main(String[] args) {
         int n=5;
         for(int i=1;i<=n;i++){
