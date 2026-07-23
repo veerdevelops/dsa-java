@@ -1,6 +1,6 @@
 package patterns;
 
-public class pattern_14 {
+public class pattern14_LetterTriangle {
     public static void main(String[] args) {
         int n=5;
         for (int i=1;i<=n;i++){
