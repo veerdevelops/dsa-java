@@ -1,6 +1,6 @@
 package patterns;
 
-public class pattern_08 {
+public class pattern08_InvertedStarPyramid {
     public static void main(String[] args) {
         int n=5;
         for(int i= 0;i<n;i++){

@@ -165,9 +165,9 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pattern_07">
-    <configuration name="pattern03_NumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern03_NumberTriangle" />
+  <component name="RunManager" selected="Application.pattern_08">
+    <configuration name="Pattern07_StarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.Pattern07_StarPyramid" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -218,8 +218,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern_07" />
+    <configuration name="pattern_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern_08" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -233,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pattern_07" />
+        <item itemvalue="Application.pattern_08" />
+        <item itemvalue="Application.Pattern07_StarPyramid" />
         <item itemvalue="Application.pattern06_InvertedNumberTriangle" />
         <item itemvalue="Application.pattern05_InvertedRightTriangle" />
         <item itemvalue="Application.pattern04_RepeatNumberTriangle" />
-        <item itemvalue="Application.pattern03_NumberTriangle" />
       </list>
     </recent_temporary>
   </component>
