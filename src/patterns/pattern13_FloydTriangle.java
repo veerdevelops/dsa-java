@@ -1,6 +1,6 @@
 package patterns;
 
-public class pattern_13 {
+public class pattern13_FloydTriangle {
     public static void main(String[] args) {
         int n =5;
         int num=1;
