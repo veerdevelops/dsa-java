@@ -163,20 +163,7 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pattern_04">
-    <configuration name="Arrays.PrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.PrefixSum" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pattern_05">
     <configuration name="LC169_MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.LC169_MajorityElement" />
       <module name="dsa-java" />
@@ -216,8 +203,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern_04" />
+    <configuration name="pattern04_RepeatNumberTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern04_RepeatNumberTriangle" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern_05" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -231,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pattern_04" />
+        <item itemvalue="Application.pattern_05" />
+        <item itemvalue="Application.pattern04_RepeatNumberTriangle" />
         <item itemvalue="Application.pattern03_NumberTriangle" />
         <item itemvalue="Application.pattern02_RightTriangle" />
         <item itemvalue="Application.LC169_MajorityElement" />
-        <item itemvalue="Application.Arrays.PrefixSum" />
       </list>
     </recent_temporary>
   </component>
