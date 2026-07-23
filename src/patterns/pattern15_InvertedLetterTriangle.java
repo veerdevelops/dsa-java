@@ -1,6 +1,6 @@
 package patterns;
 
-public class pattern_15 {
+public class pattern15_InvertedLetterTriangle {
     public static void main(String[] args) {
         int n=5;
         for(int i = 1;i<=n;i++){

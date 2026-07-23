@@ -163,20 +163,7 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pattern14_LetterTriangle">
-    <configuration name="pattern10_HalfDiamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern10_HalfDiamond" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pattern_15">
     <configuration name="pattern11_BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.pattern11_BinaryTree" />
       <module name="dsa-java" />
@@ -229,13 +216,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pattern_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern_15" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern_15" />
         <item itemvalue="Application.pattern14_LetterTriangle" />
         <item itemvalue="Application.pattern13_FloydTriangle" />
         <item itemvalue="Application.pattern12_NumberCrown" />
         <item itemvalue="Application.pattern11_BinaryTree" />
-        <item itemvalue="Application.pattern10_HalfDiamond" />
       </list>
     </recent_temporary>
   </component>
