@@ -1,6 +1,6 @@
 package patterns;
 
-public class pattern_11 {
+public class pattern11_BinaryTree {
     public static void main(String[] args) {
         int n=5;
         for(int i=1;i<=n;i++){
