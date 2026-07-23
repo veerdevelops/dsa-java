@@ -1,6 +1,6 @@
 package patterns;
 
-public class pattern_12 {
+public class pattern12_NumberCrown {
     public static void main(String[] args) {
         int n=4;
         for (int i = 1; i <= n; i++) {
