@@ -163,20 +163,7 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pattern_15">
-    <configuration name="pattern11_BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern11_BinaryTree" />
-      <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.pattern_16">
     <configuration name="pattern12_NumberCrown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.pattern12_NumberCrown" />
       <module name="dsa-java" />
@@ -216,8 +203,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern_15" />
+    <configuration name="pattern15_InvertedLetterTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern15_InvertedLetterTriangle" />
+      <module name="dsa-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pattern_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern_16" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -231,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pattern_15" />
+        <item itemvalue="Application.pattern_16" />
+        <item itemvalue="Application.pattern15_InvertedLetterTriangle" />
         <item itemvalue="Application.pattern14_LetterTriangle" />
         <item itemvalue="Application.pattern13_FloydTriangle" />
         <item itemvalue="Application.pattern12_NumberCrown" />
-        <item itemvalue="Application.pattern11_BinaryTree" />
       </list>
     </recent_temporary>
   </component>
