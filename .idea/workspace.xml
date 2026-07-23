@@ -163,7 +163,7 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pattern_02">
+  <component name="RunManager" selected="Application.pattern_03">
     <configuration name="Arrays.PrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.PrefixSum" />
       <module name="dsa-java" />
@@ -198,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.PrefixSum" />
+    <configuration name="pattern02_RightTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern02_RightTriangle" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,8 +211,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern_02" />
+    <configuration name="pattern_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern_03" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
@@ -226,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.pattern_02" />
+        <item itemvalue="Application.pattern_03" />
+        <item itemvalue="Application.pattern02_RightTriangle" />
         <item itemvalue="Application.LC169_MajorityElement" />
         <item itemvalue="Application.Arrays.PrefixSum" />
         <item itemvalue="Application.PrefixSum (1)" />
-        <item itemvalue="Application.PrefixSum" />
       </list>
     </recent_temporary>
   </component>
