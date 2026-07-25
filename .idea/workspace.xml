@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LC122_BestTimeToBuySellStock2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,61 +24,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0001812162561803" />
-      <entry key="MS500" value="1.1791898256434061" />
-      <entry key="S2" value="2.6614428288875014" />
-      <entry key="S5" value="8.426643056774978" />
-      <entry key="S10" value="15.918576230759367" />
-      <entry key="S30" value="34.67855263477926" />
-      <entry key="S60" value="63.31382434677503" />
-      <entry key="M2" value="123.25723133005408" />
-      <entry key="M5" value="271.22547611217624" />
-      <entry key="M10" value="409.3827134585009" />
-      <entry key="M15" value="482.37279770859556" />
-      <entry key="M30" value="587.601813504381" />
-      <entry key="H1" value="724.5169520090708" />
-      <entry key="H2" value="1040.2005047547304" />
-      <entry key="H4" value="1681.7843699286511" />
-      <entry key="D1" value="4821.939658240054" />
-      <entry key="W1" value="6969.358641908261" />
+      <entry key="MS100" value="1.719902985103698" />
+      <entry key="MS500" value="3.8407466713920337" />
+      <entry key="S2" value="8.322281983149592" />
+      <entry key="S5" value="14.145487231072636" />
+      <entry key="S10" value="21.085185740698407" />
+      <entry key="S30" value="32.836099043857104" />
+      <entry key="S60" value="37.77486458681849" />
+      <entry key="M2" value="40.70550475608307" />
+      <entry key="M5" value="42.63550295443865" />
+      <entry key="M10" value="43.31916758571515" />
+      <entry key="M15" value="43.92954439950942" />
+      <entry key="M30" value="60.50932511120118" />
+      <entry key="H1" value="166.17658871112633" />
+      <entry key="H2" value="471.3011738326077" />
+      <entry key="H4" value="1121.9451280854162" />
+      <entry key="D1" value="4521.41803729928" />
+      <entry key="W1" value="6939.943211672278" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.1383887647150762E-14" />
-      <entry key="MS500" value="0.001626515177501072" />
-      <entry key="S2" value="0.20082349918925843" />
-      <entry key="S5" value="0.526169671919031" />
-      <entry key="S10" value="0.725375538544712" />
-      <entry key="S30" value="0.8985059733198507" />
-      <entry key="S60" value="0.9478958790168527" />
-      <entry key="M2" value="0.9744106248787883" />
-      <entry key="M5" value="1.077315633845586" />
-      <entry key="M10" value="1.4144163873546516" />
-      <entry key="M15" value="1.7091486090219008" />
-      <entry key="M30" value="2.3875324469194883" />
-      <entry key="H1" value="4.073454387320217" />
-      <entry key="H2" value="8.593986137241158" />
-      <entry key="H4" value="16.921293476095887" />
-      <entry key="D1" value="52.348535527041776" />
-      <entry key="W1" value="77.0507955453244" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="5.09767173390969E-279" />
+      <entry key="S30" value="1.7210386432177965E-93" />
+      <entry key="S60" value="4.148541718144267E-47" />
+      <entry key="M2" value="6.446283837714282E-24" />
+      <entry key="M5" value="5.761955868251179E-10" />
+      <entry key="M10" value="3.2710769599708014E-5" />
+      <entry key="M15" value="0.0013873588674139592" />
+      <entry key="M30" value="0.0680226859679727" />
+      <entry key="H1" value="0.6875671271946304" />
+      <entry key="H2" value="3.5307809307063662" />
+      <entry key="H4" value="10.846050433257687" />
+      <entry key="D1" value="48.60835010591137" />
+      <entry key="W1" value="76.23914784513164" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.1855654710442796" />
-      <entry key="MS500" value="0.7450866718805822" />
-      <entry key="S2" value="2.4750465325325535" />
-      <entry key="S5" value="8.69125827634982" />
-      <entry key="S10" value="16.480260576585334" />
-      <entry key="S30" value="35.50982311129746" />
-      <entry key="S60" value="64.22301559489011" />
-      <entry key="M2" value="124.20767726780265" />
-      <entry key="M5" value="272.2867049550925" />
-      <entry key="M10" value="410.7815955470712" />
-      <entry key="M15" value="484.0669127263127" />
-      <entry key="M30" value="589.976513185881" />
-      <entry key="H1" value="728.5778625711542" />
-      <entry key="H2" value="1048.780077875557" />
-      <entry key="H4" value="1698.6913134060485" />
-      <entry key="D1" value="4874.27999439245" />
-      <entry key="W1" value="7046.407605148344" />
+      <entry key="MS100" value="1.619729836555442" />
+      <entry key="MS500" value="3.7482703500103627" />
+      <entry key="S2" value="8.280958750050692" />
+      <entry key="S5" value="14.119103683511034" />
+      <entry key="S10" value="21.06504243560225" />
+      <entry key="S30" value="32.82513501096158" />
+      <entry key="S60" value="37.76846143844815" />
+      <entry key="M2" value="40.70202739847304" />
+      <entry key="M5" value="42.63403902354246" />
+      <entry key="M10" value="43.31845519395074" />
+      <entry key="M15" value="43.930420173117376" />
+      <entry key="M30" value="60.57673103522628" />
+      <entry key="H1" value="166.86191259984867" />
+      <entry key="H2" value="474.8259702118332" />
+      <entry key="H4" value="1132.7819490387203" />
+      <entry key="D1" value="4570.018768595323" />
+      <entry key="W1" value="7016.180545761727" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -91,89 +90,90 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Arrays.PrefixSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LC169_MajorityElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LC75_SortColors.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubpos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OptimalSoln_189.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern01_Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern_09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrefixSum (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrefixSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Union_Sorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.XOR.executor&quot;: &quot;Run&quot;,
-    &quot;Application.XorSoln_136.executor&quot;: &quot;Run&quot;,
-    &quot;Application.largestElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.left_Rotate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.linear_search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern14_LetterTriangle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_08.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_09.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_16.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pattern_17.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_136.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_1752.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_1929.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_1optimal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_26.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_268.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_283.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_325.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_414.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_485.executor&quot;: &quot;Run&quot;,
-    &quot;Application.prblm_560.executor&quot;: &quot;Run&quot;,
-    &quot;Application.remve_duplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.rotateD.executor&quot;: &quot;Run&quot;,
-    &quot;Application.secondLargest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.sorting.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Veer Gurnani/Documents/GitHub/dsa-java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arrays.PrefixSum.executor": "Run",
+    "Application.LC121_StockBuySell.executor": "Run",
+    "Application.LC169_MajorityElement.executor": "Run",
+    "Application.LC75_SortColors.executor": "Run",
+    "Application.LongestSubpos.executor": "Run",
+    "Application.OptimalSoln_189.executor": "Run",
+    "Application.Pattern01_Rectangle.executor": "Run",
+    "Application.Pattern_09.executor": "Run",
+    "Application.PrefixSum (1).executor": "Run",
+    "Application.PrefixSum.executor": "Run",
+    "Application.Union_Sorted.executor": "Run",
+    "Application.XOR.executor": "Run",
+    "Application.XorSoln_136.executor": "Run",
+    "Application.largestElement.executor": "Run",
+    "Application.left_Rotate.executor": "Run",
+    "Application.linear_search.executor": "Run",
+    "Application.pattern14_LetterTriangle.executor": "Run",
+    "Application.pattern_02.executor": "Run",
+    "Application.pattern_03.executor": "Run",
+    "Application.pattern_04.executor": "Run",
+    "Application.pattern_05.executor": "Run",
+    "Application.pattern_06.executor": "Run",
+    "Application.pattern_07.executor": "Run",
+    "Application.pattern_08.executor": "Run",
+    "Application.pattern_09.executor": "Run",
+    "Application.pattern_10.executor": "Run",
+    "Application.pattern_11.executor": "Run",
+    "Application.pattern_12.executor": "Run",
+    "Application.pattern_13.executor": "Run",
+    "Application.pattern_14.executor": "Run",
+    "Application.pattern_15.executor": "Run",
+    "Application.pattern_16.executor": "Run",
+    "Application.pattern_17.executor": "Run",
+    "Application.prblm_1.executor": "Run",
+    "Application.prblm_136.executor": "Run",
+    "Application.prblm_1752.executor": "Run",
+    "Application.prblm_1929.executor": "Run",
+    "Application.prblm_1optimal.executor": "Run",
+    "Application.prblm_26.executor": "Run",
+    "Application.prblm_268.executor": "Run",
+    "Application.prblm_283.executor": "Run",
+    "Application.prblm_325.executor": "Run",
+    "Application.prblm_414.executor": "Run",
+    "Application.prblm_485.executor": "Run",
+    "Application.prblm_560.executor": "Run",
+    "Application.remve_duplicates.executor": "Run",
+    "Application.rotateD.executor": "Run",
+    "Application.secondLargest.executor": "Run",
+    "Application.sorting.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Veer Gurnani/Documents/GitHub/dsa-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.pattern17_PalindromePyramid">
-    <configuration name="pattern13_FloydTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern13_FloydTriangle" />
+  <component name="RunManager" selected="Application.LC121_StockBuySell">
+    <configuration name="LC121_StockBuySell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LC121_StockBuySell" />
       <module name="dsa-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LC121_StockBuySell" />
         <item itemvalue="Application.pattern17_PalindromePyramid" />
         <item itemvalue="Application.pattern16_LetterPyramid" />
         <item itemvalue="Application.pattern15_InvertedLetterTriangle" />
         <item itemvalue="Application.pattern14_LetterTriangle" />
-        <item itemvalue="Application.pattern13_FloydTriangle" />
       </list>
     </recent_temporary>
   </component>
@@ -308,6 +308,11 @@
           <url>file://$PROJECT_DIR$/src/patterns/pattern06_InvertedNumberTriangle.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/LC121_StockBuySell.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
