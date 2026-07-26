@@ -1,5 +1,5 @@
 package leetcode;
-//brute force is already optimal BIG O Complexity is already optimised just an little more space memory diffrence doesnt make a shit of diffrence
+//brute force is already optimal BIG O Complexity is already optimised just a little more space memory diffrence doesnt make a shit of diffrence
 public class LC2149_RearrangeArrayElementBySign {
     public static void main(String[] args) {
         int []nums = {3,1,-2,-5};
