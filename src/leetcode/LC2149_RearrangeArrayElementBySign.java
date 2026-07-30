@@ -10,7 +10,6 @@ public class LC2149_RearrangeArrayElementBySign {
             if(num>0){//if current elemnt is +ve
                 result[postIndex]=num;
                 postIndex+=2;
-
             }else{
                 result[negIndex]=num;//the number is negative
                 negIndex+=2;//move to the next odd index
