@@ -1,7 +1,7 @@
 package leetcode;
 //brute force is already optimal BIG O Complexity is already optimised just a little more space memory diffrence doesnt make a shit of diffrence
 public class LC2149_RearrangeArrayElementBySign {
-    public static void main(String[] args) {
+    public static void main(String[]  args) {
         int []nums = {3,1,-2,-5};
         int []result = new int[nums.length];//new array to store the answer
         int postIndex =0;//postive number will be placed
@@ -12,7 +12,7 @@ public class LC2149_RearrangeArrayElementBySign {
                 postIndex+=2;
             }else{
                 result[negIndex]=num;//the number is negative
-                negIndex+=2;//move to the next odd index
+                negIndex+=2;//move to the next odd index.
             }
         }
         for (int num : result){
