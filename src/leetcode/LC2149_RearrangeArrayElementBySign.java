@@ -12,7 +12,7 @@ public class LC2149_RearrangeArrayElementBySign {
                 postIndex+=2;
             }else{
                 result[negIndex]=num;//the number is negative
-                negIndex+=2;//move to the next odd index
+                negIndex+=2;//move to the next odd index.
             }
         }
         for (int num : result){
