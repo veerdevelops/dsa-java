@@ -7,7 +7,7 @@ public class LC2149_RearrangeArrayElementBySign {
         int postIndex =0;//postive number will be placed
         int negIndex=1;//negative numbers will be placed
         for(int num:nums){//every element.
-            if(num>0){//if current elemnt is +ve
+            if(num>0){//if current elemnt is +ve.
                 result[postIndex]=num;
                 postIndex+=2;
             }else{
