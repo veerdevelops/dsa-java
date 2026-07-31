@@ -20,4 +20,4 @@ public class LC2149_RearrangeArrayElementBySign {
         }
     }
 }
-//If the final position of each type of element is already known, place elements directly at those indices instead of rearranging later.
+//If the final position of each type of element is already known, place elements directly at those indices instead of rearranging later
