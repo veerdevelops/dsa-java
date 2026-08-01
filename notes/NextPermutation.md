@@ -280,6 +280,6 @@ The next permutation is the **smallest permutation that is greater than the curr
 
 ✔ Swap with the smallest greater element.
 
-✔ Reverse the suffix
+✔ Reverse the suffix.
 
 ✔ Goal = Smallest possible increase.
