@@ -282,4 +282,4 @@ The next permutation is the **smallest permutation that is greater than the curr
 
 ✔ Reverse the suffix.
 
-✔ Goal = Smallest possible increase.
+✔ Goal = Smallest possible increase
