@@ -69,7 +69,7 @@ src/
 
 ## Progress
 
-- Patterns: **17 **
+- Patterns: **17**
 - Arrays: **In Progress**
 - LeetCode: **19 Problems Solved**
 
