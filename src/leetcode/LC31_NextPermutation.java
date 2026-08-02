@@ -10,7 +10,6 @@ public class LC31_NextPermutation {
                 pivot=i;//index stored in pivot
                 break;
             }
-
         }
         if (pivot ==-1){//if pivot is -1 array is in descending order means last permutation
             int start =0,end = nums.length-1;
