@@ -18,7 +18,7 @@ public class LC31_NextPermutation {
                 nums[start]=nums[end];
                 nums[end]= temp;
                 start++;
-                end--;//revering the array if pivot stays -1
+                end--;//reversing the array if pivot stays -1
             }
         }else{//if pivot esist fidn the smaleest element grater then pivot
             int j = nums.length-1;//ensures next permutation is smallest
