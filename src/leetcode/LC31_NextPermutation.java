@@ -20,7 +20,7 @@ public class LC31_NextPermutation {
                 start++;
                 end--;//reversing th array if pivot stays -1
             }
-        }else{//if pivot existt fidn the smaleest element grater then pivot
+        }else{//if pivot exist fidn the smaleest element grater then pivot
             int j = nums.length-1;//ensures next permutation is smallest
             while(nums[j]<=nums[pivot]){
                 j--;
