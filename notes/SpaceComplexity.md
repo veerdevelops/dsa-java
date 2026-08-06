@@ -479,7 +479,7 @@ Space
 
 ---
 
-# One Line to Remember
+# One Line to Remembe
 
 > **Time Complexity = How much work is done.**
 
