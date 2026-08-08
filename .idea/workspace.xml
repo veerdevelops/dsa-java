@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="" />
+    <list default="true" id="e974ff6f-1617-4ade-a6eb-9b6bfa5ddccc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/LongestConsecutive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,61 +25,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000056616" />
-      <entry key="MS500" value="1.009403419390727" />
-      <entry key="S2" value="1.5400557501873455" />
-      <entry key="S5" value="2.491102303082881" />
-      <entry key="S10" value="3.361743725688185" />
-      <entry key="S30" value="5.254986486257201" />
-      <entry key="S60" value="8.886698457756285" />
-      <entry key="M2" value="18.608704025270452" />
-      <entry key="M5" value="38.47054758239517" />
-      <entry key="M10" value="53.414446432644105" />
-      <entry key="M15" value="64.43025618750146" />
-      <entry key="M30" value="93.90737765286435" />
-      <entry key="H1" value="143.65445632870927" />
-      <entry key="H2" value="257.81335932102337" />
-      <entry key="H4" value="508.6649850912045" />
-      <entry key="D1" value="3638.9391461911355" />
-      <entry key="W1" value="7777.8311891832545" />
+      <entry key="MS100" value="1.414436019242195" />
+      <entry key="MS500" value="3.323136354999671" />
+      <entry key="S2" value="5.046013618494833" />
+      <entry key="S5" value="5.586681706161744" />
+      <entry key="S10" value="5.787617504811605" />
+      <entry key="S30" value="5.927890600494934" />
+      <entry key="S60" value="5.96411085522259" />
+      <entry key="M2" value="6.061945802155287" />
+      <entry key="M5" value="8.181596297592282" />
+      <entry key="M10" value="12.689622853610983" />
+      <entry key="M15" value="16.539496027414557" />
+      <entry key="M30" value="33.29689306300016" />
+      <entry key="H1" value="82.45485230797613" />
+      <entry key="H2" value="195.8893994247304" />
+      <entry key="H4" value="442.49429589137395" />
+      <entry key="D1" value="3538.3798269268887" />
+      <entry key="W1" value="7805.412773396534" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.690598094805583E-229" />
-      <entry key="S2" value="6.412244796512229E-58" />
-      <entry key="S5" value="1.3267956455377325E-23" />
-      <entry key="S10" value="3.6425206183874035E-12" />
-      <entry key="S30" value="1.5386293277636382E-4" />
-      <entry key="S60" value="0.012404149820780301" />
-      <entry key="M2" value="0.11137391951607509" />
-      <entry key="M5" value="0.4158372377461403" />
-      <entry key="M10" value="0.658876155534585" />
-      <entry key="M15" value="0.8048626467038196" />
-      <entry key="M30" value="1.1059068243157335" />
-      <entry key="H1" value="1.4222227045347517" />
-      <entry key="H2" value="1.7464283921853867" />
-      <entry key="H4" value="2.9364331437918754" />
-      <entry key="D1" value="34.693070826018015" />
-      <entry key="W1" value="80.48066587591578" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="9.876358535876656E-185" />
+      <entry key="S30" value="5.065302230206327E-62" />
+      <entry key="S60" value="2.817005932076641E-31" />
+      <entry key="M2" value="7.307700681251671E-16" />
+      <entry key="M5" value="1.468789574311788E-6" />
+      <entry key="M10" value="0.0020181915790809376" />
+      <entry key="M15" value="0.02312481920344627" />
+      <entry key="M30" value="0.27985338640404644" />
+      <entry key="H1" value="1.0239936881404692" />
+      <entry key="H2" value="2.046651356204721" />
+      <entry key="H4" value="3.6428177259947954" />
+      <entry key="D1" value="34.85603549873739" />
+      <entry key="W1" value="81.87697033022943" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.4964754064632967E-6" />
-      <entry key="MS500" value="0.06888660484212163" />
-      <entry key="S2" value="0.7878753462635303" />
-      <entry key="S5" value="1.9067416583996009" />
-      <entry key="S10" value="2.9204403554832408" />
-      <entry key="S30" value="4.987006602965058" />
-      <entry key="S60" value="8.70687386230184" />
-      <entry key="M2" value="18.567313966277755" />
-      <entry key="M5" value="38.78021397568814" />
-      <entry key="M10" value="54.0048568483267" />
-      <entry key="M15" value="65.18484611778086" />
-      <entry key="M30" value="94.98516193097095" />
-      <entry key="H1" value="145.06117322532748" />
-      <entry key="H2" value="259.5503528716619" />
-      <entry key="H4" value="511.5948069194104" />
-      <entry key="D1" value="3673.6261486428543" />
-      <entry key="W1" value="7858.309877196855" />
+      <entry key="MS100" value="1.2679743200014868" />
+      <entry key="MS500" value="3.1530955601230746" />
+      <entry key="S2" value="4.981630242979261" />
+      <entry key="S5" value="5.558514634492956" />
+      <entry key="S10" value="5.773098715070702" />
+      <entry key="S30" value="5.922950978505947" />
+      <entry key="S60" value="5.961625250290704" />
+      <entry key="M2" value="6.0603576461475654" />
+      <entry key="M5" value="8.177504551307848" />
+      <entry key="M10" value="12.685958189660049" />
+      <entry key="M15" value="16.55668819517597" />
+      <entry key="M30" value="33.569199802010594" />
+      <entry key="H1" value="83.46985009462628" />
+      <entry key="H2" value="197.92773138887583" />
+      <entry key="H4" value="446.13027623757466" />
+      <entry key="D1" value="3573.2297026025035" />
+      <entry key="W1" value="7887.287721966186" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -167,7 +170,7 @@
       <recent name="C:\Users\Veer Gurnani\Documents\GitHub\dsa-java\notes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LC31_NextPermutation">
+  <component name="RunManager" selected="Application.LongestConsecutive">
     <configuration name="LC121_StockBuySell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.LC121_StockBuySell" />
       <module name="dsa-java" />
@@ -207,15 +210,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern16_LetterPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.pattern16_LetterPyramid" />
+    <configuration name="LongestConsecutive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestConsecutive" />
       <module name="dsa-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -235,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestConsecutive" />
         <item itemvalue="Application.LC31_NextPermutation" />
         <item itemvalue="Application.LC2149_RearrangeArrayElementBySign" />
         <item itemvalue="Application.LC121_StockBuySell" />
         <item itemvalue="Application.pattern17_PalindromePyramid" />
-        <item itemvalue="Application.pattern16_LetterPyramid" />
       </list>
     </recent_temporary>
   </component>
