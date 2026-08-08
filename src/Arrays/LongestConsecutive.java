@@ -31,3 +31,5 @@ public class LongestConsecutive {
         System.out.println("Longest consecutive sequence length = " + longest);
     }
 }
+// we coulve sorted and used two pointer but complexity wouldve 0 nlogn
+//optimal soln was hashset
