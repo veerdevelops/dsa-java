@@ -8,7 +8,7 @@ Unlike a `HashMap`, it does not store data in:
 
     key → value
 
-It stores only the elements
+It stores only the elements:
 
     {1, 2, 3, 4, 5}
 
